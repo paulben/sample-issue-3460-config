@@ -3,11 +3,11 @@
 #
 version: 1.0
 app:
-  #maven:
-  #  groupId: net.wasdev.wlp.sample
-  #  artifactId: ferret
-  #  version: "1.2"
-  #  type: war
+  maven:
+    groupId: net.wasdev.wlp.sample
+    artifactId: ferret
+    version: "1.2"
+    type: war
     
   # build id to deploy. if 'version' is commented out, the application is not deployed
   #version: ""
