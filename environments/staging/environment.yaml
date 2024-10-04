@@ -10,7 +10,7 @@ app:
     type: war
     
   # build id to deploy. if 'version' is commented out, the application is not deployed
-  version: ""
+  #version: ""
   
   # number of instances
   instances:
