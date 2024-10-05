@@ -9,7 +9,7 @@ app:
     version: "1.2"
     type: war
     
-  # build id to deploy. if 'version' is commented out, the application is not deployed
+  # build id to deploy. if 'version' is commented out, the application is not deployed pwb
   #version: ""
   
   # number of instances
